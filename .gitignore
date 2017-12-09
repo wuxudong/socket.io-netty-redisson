@@ -1,0 +1,7 @@
+*.iml
+.idea
+.DS_Store
+*.rdb
+/server/target
+/server/.classpath
+/server/.project
